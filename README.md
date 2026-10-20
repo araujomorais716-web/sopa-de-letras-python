@@ -1,5 +1,7 @@
 # 🔤 Sopa de Letras
 
+![Captura do jogo](Imagens/jogo.png)
+
 Jogo de sopa de letras em Python com interface gráfica (Tkinter).
 
 ## Funcionalidades
@@ -28,3 +30,7 @@ Crie um ficheiro `.txt` na pasta `temas/` com uma palavra por linha. Ele aparece
 - `gerador.py` – geração do tabuleiro
 - `palavras.py` – leitura dos temas
 - `configuracoes.py` – constantes (tamanho, cores, erros)
+
+## Autor
+Desenvolvido por **Araújo Morais**, finalista de Engenharia Informática.
+🔗 [LinkedIn](https://www.linkedin.com/in/ara%C3%BAjo-morais-342900418)
